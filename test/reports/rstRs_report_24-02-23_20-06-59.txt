@@ -1,0 +1,6 @@
+Genome	rstR-CC_len_ratio	rstR-CC_#contigs	rstR-ET_len_ratio	rstR-ET_#contigs	best_guess	
+WP_217564250.1_genome	0.0	0	0.0	0	-
+ERR018111	0.0	0	2.0	2	rstR-ET
+SRR8169161	0.0	0	0.0	0	-
+ERR1879635	2.0	2	0.0	0	rstR-CC
+ERR1879596	0.0	0	0.0	0	-

@@ -1,0 +1,6 @@
+Genome	YB4G06_len_ratio	YB4G06_#contigs	YB4H02_len_ratio	YB4H02_#contigs	OYP8C06_len_ratio	OYP8C06_#contigs	YB03_len_ratio	YB03_#contigs	N2705_len_ratio	N2705_#contigs	OYP1G01_len_ratio	OYP1G01_#contigs	OYP8_len_ratio	OYP8_#contigs	VC22_1_len_ratio	VC22_1_#contigs	VC22_len_ratio	VC22_#contigs	YB2_len_ratio	YB2_#contigs	best_guess	
+WP_217564250.1_genome	0.0	0	0.0	0	0.0	0	0.0	0	0.0740301890680542	1	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	-
+ERR018111	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	-
+SRR8169161	0.0	0	0.0	0	0.0	0	0.0	0	0.07449384369687291	1	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	-
+ERR1879635	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	-
+ERR1879596	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	0	-

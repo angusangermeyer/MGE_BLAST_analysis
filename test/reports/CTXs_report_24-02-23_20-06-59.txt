@@ -1,0 +1,6 @@
+Genome	ctxB-CC_len_ratio	ctxB-CC_#contigs	ctxB-ET_len_ratio	ctxB-ET_#contigs	best_guess	
+WP_217564250.1_genome	0.0	0	0.0	0	-
+ERR018111	1.0	1	1.0	1	ctxB-CC
+SRR8169161	0.0	0	0.0	0	-
+ERR1879635	2.0	2	2.0	2	ctxB-CC
+ERR1879596	0.0	0	0.0	0	-

@@ -1,0 +1,6 @@
+Genome	tcpA-CC_len_ratio	tcpA-CC_#contigs	tcpA-ET_len_ratio	tcpA-ET_#contigs	best_guess	
+WP_217564250.1_genome	0.0	0	0.0	0	-
+ERR018111	1.0103703703703704	1	1.0	1	tcpA-CC
+SRR8169161	0.0	0	0.0	0	-
+ERR1879635	1.0103703703703704	1	1.0	1	tcpA-CC
+ERR1879596	1.0103703703703704	1	1.0	1	tcpA-CC
