@@ -1,7 +1,3 @@
--. .-.   .-. .-.   .-. .-.   .  
-||\|||\ /|||\|||\ /|||\|||\ /|
-|/ \|||\|||/ \|||\|||/ \|||\||
-~   `-~ `-`   `-~ `-`   `-~ `-
 This program is designed to look for known elements in assembled bacterial genomes. \
 Elements can be any reasonable sized nucleotide sequence for a gene, MGE, ORF, etc. \
 It will process three types of element lists: 
@@ -22,7 +18,3 @@ Oh, also the assembly files and element files are hashed and that info is stored
 This allows the program to easily look up previous results and saves a LOT of computational time. \
 If you cange anything about an assembly or element file, including the name, it will generate a new hash \
 and run the blast again.
--. .-.   .-. .-.   .-. .-.   .  
-||\|||\ /|||\|||\ /|||\|||\ /|
-|/ \|||\|||/ \|||\|||/ \|||\||
-~   `-~ `-`   `-~ `-`   `-~ `-
